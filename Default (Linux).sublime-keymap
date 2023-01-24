@@ -1,0 +1,6 @@
+[
+	{ "keys": ["ctrl+tab"], "command": "next_view" },
+	{ "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+	{ "keys": ["ctrl+j", "ctrl+shift+tab"], "command": "focus_to_left" },
+	{ "keys": ["ctrl+j", "ctrl+tab"], "command": "focus_to_right" },
+]
